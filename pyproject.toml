@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/mhcoma/egnar"
+"Bug Tracker" = "https://github.com/mhcoma/egnar/issues"
