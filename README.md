@@ -1,6 +1,10 @@
 # egnar
 Python range-like iterator for float, decimal.Decimal and fractions.Fraction
 
+```bash
+pip install egnar
+```
+
 ```python
 from egnar import *
 
